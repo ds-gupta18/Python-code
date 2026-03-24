@@ -1,0 +1,14 @@
+This file is created using 'w' mode in Python.
+Have a nice day!
+This content has been written using 'a' mode.
+
+'a' mode is used to add new content at the end of a file.
+Good Bye
+This content has been written using 'a' mode.
+
+'a' mode is used to add new content at the end of a file.
+GoodBye
+This content has been written using 'a' mode.
+
+'a' mode is used to add new content at the end of a file.
+GoodBye
